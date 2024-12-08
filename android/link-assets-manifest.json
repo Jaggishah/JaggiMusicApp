@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/Fonts/customhallMedium.ttf",
+      "sha1": "b35c00f1f3f511a06b19405516b41bf9561be473"
+    },
+    {
+      "path": "src/Fonts/railwayFont.ttf",
+      "sha1": "c6aeae4288b3b7f230096ccfa1e455af55e19f6a"
+    }
+  ]
+}
